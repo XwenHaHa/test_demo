@@ -1,2 +1,6 @@
 main分支上的第一次提交
+<<<<<<< HEAD
 main分支上对于main_test文件的第一次修改
+=======
+test1分支上对于main_test文件的第一次修改
+>>>>>>> e2ed9c8 (feat:test1分支上对于main_test文件的第一次修改)
